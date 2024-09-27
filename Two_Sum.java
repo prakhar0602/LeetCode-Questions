@@ -1,4 +1,4 @@
-class Solution {
+class Two_Sum {
     public int[] twoSum(int[] a, int t) {
         int b[]={-1,-1};
         int l=a.length;
